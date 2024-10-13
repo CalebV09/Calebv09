@@ -1,7 +1,7 @@
 ## Hi there 👋
 # README
 ## My name is Caleb!
-### I am pursuing a degree in computer science to hopefully enter the field of game/website development. I am on the bowling team here at Judson but also play golf! I am originally from Pittsburgh, Pa and moved to Huntley, Il before highschool. I love cars and drive a Toyota Gt86, it is awesome in the summer but staying on the road when its snowing is a 50/50 shot.
+### I am currently pursuing a degree in computer science from Judson University and am looking to enter the field of software development. I am still in the beginning of my software journey but I am currently focusing on getting a strong base of the fundamentals of have been thoroughly enjoying it!
 <!--
 **CalebV09/Calebv09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
